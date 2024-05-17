@@ -1,11 +1,15 @@
-# MICROPARCIAL_U3_WEB_ll
-Inserción de productos 
+# MICROPARCIAL_U3_WEB_II
 # Mi proyecto
-Insercion de productos de desayunos(Api,tojori y pastel)
+
+Realiza una Inserción de productos de comida(desayunos API, Tojori y Pastel)
+mostrando la tabla de productos actualizada.
+
 ## Instalación
- - Xampp
- - Visual Studio Code
-## Configuracion
-Apache, Mysql, MyphpMyAdmin en Xampp.
+Instalacion del XAMPP
+Visual Studio Code
+
+##Configuración 
+Xampp, Apache, Mysql, MyphpAdmin
+
 ## Uso
-Insertar productos.
+Se usa para insertar productos.
