@@ -1,0 +1,122 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#titulo1{
+    width: 100%;
+    background-color: rgb(225, 225, 225);
+    color: rgb(99, 12, 52);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+}
+
+#nav{
+  
+    width: 17%;
+    height: 100%;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    display: block;
+    background-color: rgb(99, 12, 52);
+}
+img{
+    border-radius: 65%;
+    width: 100px;
+    height: 100px;
+}
+#body{
+    display: flex;
+    font-weight: bold;
+}
+.navIcon{
+    text-decoration: none;
+    color:white;
+}
+
+input[type='submit']{
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    background-color: orange;
+    border-color:orange ;  
+   font-weight: bold;
+}
+#modify{
+    background-color:black;
+    border-color:black ;  
+     margin-left: 60%;
+}
+
+#register{
+   margin: 5%;
+    width: 100%;
+    padding: 7%;
+    background-color: lightgray;
+  
+}
+button{
+    padding: 10px;
+    margin: 5%;
+    color: white;
+    border-radius:10px ;
+    background-color: rgb(255, 96, 96);
+    border-color: rgb(255, 96, 96);
+}
+a:hover{
+  text-decoration: underline;
+}
+a:focus{color: white;}
+table{
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+   
+    margin-left: 3%; /* Centrar horizontalmente */
+    margin-right: auto; /* Centrar horizontalmente */
+    padding: 10px; /* Relleno interno */
+    text-align: center;
+    table-layout: fixed;
+}
+h2{
+    margin-left: 3%;
+}
+table tr {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: 4px;
+}
+thead{
+    color: purple;
+    font-size: larger;
+    background-color: transparent;
+}
+td{
+    padding: 20px;
+}
+table th{
+    padding: 16px;
+    text-align: center;
+    font-size: .85em;
+}
+
+.users-table--edit{
+    background: #009688;
+    padding: 6px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+.show{
+    background: #ffa010;
+    padding: 6px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+.users-table--delete{
+    background: #b11e1e;
+    padding: 6px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
