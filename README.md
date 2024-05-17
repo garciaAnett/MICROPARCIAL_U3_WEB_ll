@@ -1,2 +1,11 @@
 # MICROPARCIAL_U3_WEB_ll
-Inserción de productos usando MVC, php, mysql en un servidor web Xampp
+Inserción de productos 
+# Mi proyecto
+Insercion de productos de desayunos(Api,tojori y pastel)
+## Instalación
+ - Xampp
+ - Visual Studio Code
+## Configuracion
+Apache, Mysql, MyphpMyAdmin en Xampp.
+## Uso
+Insertar productos.
